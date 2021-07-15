@@ -1,4 +1,4 @@
-# drp
+# social media app deployed at https://niched.herokuapp.com/home developed with Vue and Python
 
 ## Project setup
 
